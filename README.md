@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Open the shopify.app.toml file and in the line client_id = “enter your client id” replace it with your id, you also have the option to delete this file and run npm run dev to configure it automatically.
 
 First, run the development server:
 
